@@ -6,6 +6,7 @@ Welcome to the Blinket Analysis Dashboard repository! This project features a dy
 The Blinket Analysis Dashboard was created to analyze and visualize key metrics from Blinket's sales data. This tool helps in understanding sales performance, customer satisfaction, and inventory management. It is built using Power BI and showcases various aspects of data visualization and interaction.
 
 Why This Dashboard?
+
 Blinket generates extensive data from customer orders, and this dashboard aims to present these insights in a visually engaging and interactive manner. It enables data-driven decision-making and demonstrates the ability to transform raw data into actionable insights.
 
 # Key Features
