@@ -10,10 +10,17 @@ Blinket generates extensive data from customer orders, and this dashboard aims t
 
 # Key Features
 Total Sales: Displays the overall revenue generated from all items sold.
+
 Average Sales: Shows the average revenue per sale.
+
 Number of Items Sold: Counts the total number of items sold.
+
 Average Rating: Provides the average customer rating of the items sold.
+
 Sales by Fat Content: Visualizes sales distribution based on fat content (low fat, regular).
+
 Sales by Item Type: Illustrates sales by item categories (e.g., dairy products, soft drinks).
+
 Sales by Outlet Characteristics: Analyzes sales by outlet establishment year, size, and location.
+
 Interactive Filters: Allows users to filter data dynamically by item type, outlet characteristics, and more.
