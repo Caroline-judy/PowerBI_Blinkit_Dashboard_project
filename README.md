@@ -25,3 +25,6 @@ Sales by Item Type: Illustrates sales by item categories (e.g., dairy products, 
 Sales by Outlet Characteristics: Analyzes sales by outlet establishment year, size, and location.
 
 Interactive Filters: Allows users to filter data dynamically by item type, outlet characteristics, and more.
+
+# Check out my Blog in Medium to know more about the Project: 
+https://medium.com/@carolinejudy2002/how-i-created-an-amazing-dashboard-for-blinkit-analysis-e2e003201d2b
